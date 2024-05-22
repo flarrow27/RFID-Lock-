@@ -40,4 +40,8 @@ Contributions to this project are welcome! Feel free to submit bug reports, feat
 - Thanks to the developers of the MFRC522 library for Arduino.
 - Special thanks to the Arduino community for their support and contributions.
 
+## Contact
+
+For any inquiries or support, please contact jabinjoshua.s@gmail.com
+
 Enhance your security with the RFID Access Control System!
